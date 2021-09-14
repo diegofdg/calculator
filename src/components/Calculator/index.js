@@ -1,8 +1,9 @@
 import React from 'react';
+import { Container } from './Styled';
 
 const Calculator = () => {
     return ( 
-        <div>Test Calculator</div>
+        <Container />
     );
 };
  
